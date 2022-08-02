@@ -7,7 +7,6 @@ Software Developer
 I have a Bachelor's degree in Technology Development and Management. I am interested in the possibilities provided by modern machine learning and hope to one day make contributions in that field.
 
 * 🌍  I'm based in Florida
-* 🔗  Check out my [website](http://www.jedwards.cc)
 * ✉️  You can contact me at [justinedwards1230@gmail.com](mailto:justinedwards1230@gmail.com)
 
 ### Skills
