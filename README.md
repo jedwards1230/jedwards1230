@@ -55,7 +55,3 @@ break things here than at work — on purpose, usually.
 | **[earmark](https://github.com/jedwards1230/earmark)** | Go | Makes an audiobook library searchable by meaning — indexes transcripts, embeds them, serves the shelf to AI assistants over MCP |
 | **[libro-client](https://github.com/jedwards1230/libro-client)** | TypeScript | Library for downloading Libro.fm audiobooks |
 | **[deck](https://github.com/jedwards1230/deck)** | Go | Terminal slide presenter built with Bubble Tea |
-
----
-
-[jedwards.cc](https://jedwards.cc)
