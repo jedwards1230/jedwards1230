@@ -4,7 +4,7 @@
 that turn one-off infrastructure work into something self-serve. Tampa, FL 🌴
 
 Most of my practice runs on a home Kubernetes cluster: ~90 services deployed declaratively
-through ArgoCD, provisioned with Ansible and OpenTofu, and observed with Prometheus, Loki,
+through Argo CD, provisioned with Ansible and OpenTofu, and observed with Prometheus, Loki,
 and Tempo. It's a production-shaped environment I own end to end, which means I get to make
 the platform decisions and then live with them.
 
@@ -34,7 +34,7 @@ the platform decisions and then live with them.
 
 ### Tooling
 
-| Project | | What it is |
+| Project | Lang | What it is |
 | --- | --- | --- |
 | **[anyctl](https://github.com/jedwards1230/anyctl)** | Go | Manifest-driven CLI for HTTP/RPC service APIs — a service is one YAML file, not code |
 | **[claude-plugins](https://github.com/jedwards1230/claude-plugins)** | Shell | Marketplace of reusable Claude Code plugins — skills, agents, and hooks |
@@ -42,14 +42,14 @@ the platform decisions and then live with them.
 
 ### Systems
 
-| Project | | What it is |
+| Project | Lang | What it is |
 | --- | --- | --- |
 | **[gpu-arbiter](https://github.com/jedwards1230/gpu-arbiter)** | Rust | Evicts GPU compute tenants when a game launches, restores them when you quit, and reports availability over HTTP. Linux and Windows |
 | **[lg-buddy](https://github.com/jedwards1230/lg-buddy)** | Shell | Keeps an LG WebOS TV in sync with a Linux host's power and session state |
 
 ### Apps & libraries
 
-| Project | | What it is |
+| Project | Lang | What it is |
 | --- | --- | --- |
 | **[earmark](https://github.com/jedwards1230/earmark)** | Go | Makes an audiobook library searchable by meaning — indexes transcripts, embeds them, serves the shelf to AI assistants over MCP |
 | **[libro-client](https://github.com/jedwards1230/libro-client)** | TypeScript | Library for downloading Libro.fm audiobooks |
