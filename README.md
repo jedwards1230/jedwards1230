@@ -1,12 +1,13 @@
 # Justin Edwards
 
-**Platform engineer.** I build paved roads — internal tooling, GitOps pipelines, and CLIs
-that turn one-off infrastructure work into something self-serve. Tampa, FL 🌴
+**Platform engineer by day, homelab tinkerer by night.**
 
-Most of my practice runs on a home Kubernetes cluster: ~90 services deployed declaratively
-through Argo CD, provisioned with Ansible and OpenTofu, and observed with Prometheus, Loki,
-and Tempo. It's a production-shaped environment I own end to end, which means I get to make
-the platform decisions and then live with them.
+I build the tooling and pipelines other engineers ship through at work, and run a
+slightly-too-complex Kubernetes cluster at home for fun. Based in Florida 🌴
+
+The cluster runs about 90 services through Argo CD, provisioned with Ansible and OpenTofu
+and watched by Prometheus, Loki, and Tempo — which is roughly 89 more services than a house
+needs, and the best excuse I've found to break things properly before work does.
 
 ### Stack
 
