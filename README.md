@@ -6,8 +6,8 @@ I build the tooling and pipelines other engineers ship through at work, and run 
 slightly-too-complex Kubernetes cluster at home for fun. Based in Florida 🌴
 
 The cluster runs about 90 services through Argo CD, provisioned with Ansible and OpenTofu
-and watched by Prometheus, Loki, and Tempo — which is roughly 89 more services than a house
-needs, and the best excuse I've found to break things properly before work does.
+and watched by Prometheus, Loki, and Tempo — roughly 89 more than a house needs. Better to
+break things here than at work — on purpose, usually.
 
 ### Stack
 
